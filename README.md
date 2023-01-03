@@ -39,6 +39,8 @@ The system administrator can view the names of requested customers along with ca
 # Dashboard
 
 ![image](https://user-images.githubusercontent.com/121279015/210377866-a08f2371-3d6c-4353-b3e8-d499dff89e20.png)
-# How to Run?[Install.txt](https://github.com/ga7nesh/Online-Banking-System/files/10337358/Install.txt)
+# How to Run?
+
+[Install.txt](https://github.com/ga7nesh/Online-Banking-System/files/10337358/Install.txt)
 
 
