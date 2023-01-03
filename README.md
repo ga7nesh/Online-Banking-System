@@ -31,3 +31,11 @@ Moving toward the account verification side, all the registered accounts are tra
 On the other hand, the admin can list details of all the transactions done within the system. This does not apply only to the system administrator but also applies to all the customer’s activities. From the transaction history, the user can view the names of customers (sender, receiver), account numbers, dates, and amounts, with status. Truly, this feature lets you know about the transaction history of all the customers as well as the system(codeastro.com). It helps to maintain transparency between clients and the banking system with their detailed transactions. Talking about the card requests, all the requested cards are listed here for approval from the administrator. The customers submit an auto-generated form requesting a virtual card which directly results in the card requests section. Here, the system automatically generated cards and CVV numbers.
 
 The system administrator can view the names of requested customers along with card numbers, CVV, account numbers, and their status before taking any actions. Just like verifying an account, the user can simply approve or reject the card request. In fact, customers can only view their card information after getting approval from the bank administrator. Last but not least, a clean and simple dashboard is presented with various color combinations for a greater user experience while using this Online Banking System Project in PHP MySQL. For its UI elements, a free open-source CSS framework; Bootstrap is on board with some Vanilla CSS too. Presenting a new Banking System Project in PHP MySQL which includes an admin panel with a customer panel. That too contains all the essential features to follow up and is a knowledgeable resource for learning purposes.
+
+# Home Page 
+![image](https://user-images.githubusercontent.com/121279015/210377301-11a45b9c-66c6-4880-8624-d1c166f1e024.png)
+
+
+# Dashboard
+
+![image](https://user-images.githubusercontent.com/121279015/210377568-153d1e11-2e16-453f-9af7-ac4cbabfe8b1.png)
