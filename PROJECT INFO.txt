@@ -1,8 +1,7 @@
-**Log on to codeastro.com for more projects!***
 
 **Database Name: onlinebanking**
 
-**Developed by Digambar Chaudhari**
+**Developed by G Ganesh S Pn**
 
 **Recommended PHP Version 5, 7, 8**
 
@@ -10,4 +9,4 @@
 **Admin Login Details**
 
 Username: admin
-Password: codeastro.com
+Password: 12345
