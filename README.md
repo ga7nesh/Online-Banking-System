@@ -33,9 +33,9 @@ On the other hand, the admin can list details of all the transactions done withi
 The system administrator can view the names of requested customers along with card numbers, CVV, account numbers, and their status before taking any actions. Just like verifying an account, the user can simply approve or reject the card request. In fact, customers can only view their card information after getting approval from the bank administrator. Last but not least, a clean and simple dashboard is presented with various color combinations for a greater user experience while using this Online Banking System Project in PHP MySQL. For its UI elements, a free open-source CSS framework; Bootstrap is on board with some Vanilla CSS too. Presenting a new Banking System Project in PHP MySQL which includes an admin panel with a customer panel. That too contains all the essential features to follow up and is a knowledgeable resource for learning purposes.
 
 # Home Page 
-![image](https://user-images.githubusercontent.com/121279015/210377301-11a45b9c-66c6-4880-8624-d1c166f1e024.png)
+![image](https://user-images.githubusercontent.com/121279015/210377977-87d36707-6857-47d9-8ac7-19dbb0d4d35a.png)
 
 
 # Dashboard
 
-![image](https://user-images.githubusercontent.com/121279015/210377568-153d1e11-2e16-453f-9af7-ac4cbabfe8b1.png)
+![image](https://user-images.githubusercontent.com/121279015/210377866-a08f2371-3d6c-4353-b3e8-d499dff89e20.png)
